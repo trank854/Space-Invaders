@@ -11,6 +11,6 @@ TM4C123GH6PM<br/>
 Nokia 5110 LCD<br/>
 ![](https://m.media-amazon.com/images/I/41vDHEUTnVL._AC_SX466_.jpg)
 ## Demo
-[![][image]](video) to be uploaded later when I find it
+[![](https://tmg.youtube.com/vi/nKJ-HdPZYZk)](https://youtu.be/nKJ-HdPZYZk)
 
 ## Report
